@@ -1,4 +1,0 @@
-EoMT-COCO originale: 25.11%
-EoMT-CS originale: 81.68%
-EoMT fine-tuned Fase1: 68.82%
-EoMT fine-tuned Fase2: 76.42%
